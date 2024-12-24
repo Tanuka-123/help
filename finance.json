@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "amount": 12345678.0,
+        "category": "category1",
+        "date": "24.12.2024",
+        "description": "opisanie1"
+    },
+    {
+        "id": 2,
+        "amount": -12345678.0,
+        "category": "category2",
+        "date": "25.12.2024",
+        "description": "opisanie"
+    },
+    {
+        "id": 3,
+        "amount": 123.0,
+        "category": "category1",
+        "date": "23.12.2024",
+        "description": "opisanie"
+    }
+]
